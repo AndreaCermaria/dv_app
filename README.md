@@ -1,4 +1,4 @@
-# JBI100 Andrea Cermaria App
+# JBI100 App
 
 ## About this app
 Visualization app to explore outliers in the World Cup Dataset
