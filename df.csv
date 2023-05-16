@@ -1,0 +1,339 @@
+player,position,team,age,club,birth_year,Percentage of aerial duel won,Ball Recoveries,Dribbles Tackled,Interceptions,Minutes per game,Passes completed,Market Value,Contract Expiration Date
+aaron ramsey,MF,Wales,31,Nice,1990.0,0.0,19.0,0.0,0.0,90.0,88.0,"3,000,000.0",2023-06-30
+abdelkarim hassan,DF,Qatar,29,Al Sadd SC,1993.0,75.0,11.0,75.0,1.0,89.0,122.0,"750,000.0",2023-01-31
+abderrazak hamdallah,FW,Morocco,32,Al-Ittihad,1990.0,12.5,4.0,0.0,0.0,36.0,8.0,0.0,2023-01-31
+abdessamad ezzalzouli,FW,Morocco,21,Osasuna,2001.0,33.3,4.0,100.0,0.0,90.0,10.0,"8,000,000.0",2023-06-30
+abdou diallo,DF,Senegal,26,RB Leipzig,1996.0,53.8,17.0,100.0,1.0,17.0,139.0,"15,000,000.0",2023-06-30
+abdulaziz hatem,MF,Qatar,32,Al Rayyan SC,1990.0,33.3,4.0,50.0,1.0,83.0,72.0,0.0,2023-01-31
+abdulelah alamri,DF,Saudi Arabia,25,Al-Nassr,1997.0,71.4,15.0,0.0,4.0,1.0,74.0,0.0,2023-01-31
+abdulellah almalki,MF,Saudi Arabia,28,Al-Hilal,1994.0,0.0,9.0,33.3,2.0,65.0,66.0,0.0,2023-01-31
+abdulrahman alaboud,MF,Saudi Arabia,27,Al-Ittihad,1995.0,50.0,1.0,20.0,0.0,87.0,8.0,"1,800,000.0",2023-05-31
+achraf hakimi,DF,Morocco,24,Paris S-G,1998.0,38.5,46.0,60.7,9.0,18.0,312.0,"70,000,000.0",2026-06-30
+adrien rabiot,MF,France,27,Juventus,1995.0,65.2,30.0,57.1,10.0,19.0,237.0,"25,000,000.0",2023-06-30
+ahmad nourollahi,MF,IR Iran,29,Al-Ahli Dubai FC,1993.0,100.0,15.0,50.0,6.0,90.0,35.0,0.0,2023-01-31
+ajdin hrustic,MF,Australia,26,Hellas Verona,1996.0,0.0,3.0,100.0,1.0,11.0,17.0,"1,800,000.0",2026-06-30
+akram afif,FW,Qatar,26,Al Sadd SC,1996.0,50.0,14.0,0.0,0.0,74.0,139.0,"4,000,000.0",2025-06-30
+alan franco,MF,Ecuador,24,Talleres,1998.0,50.0,1.0,0.0,2.0,6.0,10.0,0.0,2023-01-31
+alex sandro,DF,Brazil,31,Juventus,1991.0,75.0,16.0,100.0,3.0,21.0,150.0,"4,500,000.0",2023-06-30
+alex telles,DF,Brazil,30,Sevilla,1992.0,50.0,1.0,100.0,0.0,90.0,33.0,"14,000,000.0",2023-06-30
+alexander bah,DF,Denmark,25,Benfica,1997.0,100.0,3.0,66.7,2.0,23.0,37.0,"8,000,000.0",2027-06-30
+alexander djiku,DF,Ghana,28,Strasbourg,1994.0,100.0,3.0,100.0,2.0,32.0,22.0,"8,000,000.0",2023-06-30
+alexis mac allister,MF,Argentina,23,Brighton,1998.0,29.4,40.0,57.1,3.0,87.0,234.0,"42,000,000.0",2025-06-30
+ali abdi,DF,Tunisia,28,Caen,1993.0,64.3,17.0,100.0,4.0,30.0,72.0,0.0,2023-01-31
+ali albulaihi,DF,Saudi Arabia,33,Al-Hilal,1989.0,50.0,5.0,50.0,3.0,49.0,78.0,0.0,2023-01-31
+ali gholizadeh,MF,IR Iran,26,Charleroi,1996.0,0.0,21.0,0.0,3.0,92.0,46.0,"2,000,000.0",2023-06-30
+ali karimi,MF,IR Iran,28,Kayserispor,1994.0,60.0,6.0,50.0,3.0,64.0,34.0,"100,000.0",2024-06-30
+alireza jahanbakhsh,MF,IR Iran,29,Feyenoord,1993.0,0.0,1.0,0.0,1.0,45.0,11.0,"3,000,000.0",2024-06-30
+alistair johnston,DF,Canada,24,CF Montréal,1998.0,66.7,16.0,28.6,2.0,27.0,147.0,0.0,2023-01-31
+almoez ali,FW,Qatar,26,Al Duhail SC,1996.0,18.2,6.0,0.0,1.0,66.0,33.0,0.0,2023-01-31
+alphonso davies,MF,Canada,22,Bayern Munich,2000.0,60.0,14.0,0.0,3.0,33.0,82.0,"70,000,000.0",2025-06-30
+amadou onana,MF,Belgium,21,Everton,2001.0,100.0,7.0,50.0,0.0,90.0,58.0,"35,000,000.0",2027-06-30
+andreas christensen,DF,Denmark,26,Barcelona,1996.0,60.0,20.0,100.0,4.0,30.0,237.0,"30,000,000.0",2026-06-30
+andreas skov olsen,FW,Denmark,22,Club Brugge,1999.0,33.3,3.0,0.0,1.0,90.0,43.0,"20,000,000.0",2026-06-30
+andrej kramaric,FW,Croatia,31,Hoffenheim,1991.0,0.0,18.0,0.0,0.0,75.0,153.0,"9,000,000.0",2025-06-30
+andrija zivkovic,DF,Serbia,26,PAOK,1996.0,50.0,11.0,66.7,3.0,90.0,71.0,"6,000,000.0",2024-06-30
+andre ayew,MF,Ghana,33,Al Sadd SC,1989.0,18.8,6.0,50.0,0.0,52.0,30.0,"2,200,000.0",2023-06-30
+anthony contreras,FW,Costa Rica,22,Club Sport Herediano,2000.0,45.5,4.0,100.0,1.0,68.0,15.0,"475,000.0",2024-06-30
+antonee robinson,DF,United States,25,Fulham,1997.0,62.5,40.0,42.9,7.0,70.0,173.0,"10,000,000.0",2024-06-30
+antonio silva,DF,Portugal,19,Benfica,2003.0,33.3,4.0,50.0,1.0,26.0,60.0,0.0,2023-01-31
+ao tanaka,MF,Japan,24,Düsseldorf,1998.0,75.0,9.0,100.0,3.0,41.0,48.0,0.0,2023-01-31
+arkadiusz milik,FW,Poland,28,Juventus,1994.0,44.4,3.0,0.0,0.0,23.0,19.0,"10,000,000.0",2023-06-30
+asiri haitham,FW,Saudi Arabia,21,Al-Ahli,2001.0,0.0,0.0,0.0,0.0,42.0,1.0,0.0,2023-01-31
+atiba hutchinson,MF,Canada,39,Beşiktaş,1983.0,100.0,10.0,100.0,1.0,77.0,100.0,"200,000.0",2023-06-30
+aurelien tchouameni,MF,France,22,Real Madrid,2000.0,71.4,44.0,42.9,14.0,10.0,426.0,"90,000,000.0",2028-06-30
+axel disasi,DF,France,24,Monaco,1998.0,100.0,4.0,0.0,3.0,90.0,61.0,"25,000,000.0",2025-06-30
+axel witsel,MF,Belgium,33,Atlético Madrid,1989.0,66.7,12.0,100.0,4.0,43.0,169.0,"5,000,000.0",2024-06-30
+ayase ueda,FW,Japan,24,Cercle Brugge,1998.0,100.0,3.0,0.0,0.0,90.0,7.0,0.0,2023-01-31
+aymeric laporte,DF,Spain,28,Manchester City,1994.0,62.5,17.0,100.0,3.0,57.0,413.0,"38,000,000.0",2025-06-30
+aziz behich,DF,Australia,32,Dundee United,1990.0,50.0,22.0,83.3,3.0,2.0,152.0,"700,000.0",2024-05-31
+azzedine ounahi,MF,Morocco,22,Angers,2000.0,25.0,38.0,77.8,7.0,34.0,216.0,"15,000,000.0",2027-06-30
+bamba dieng,FW,Senegal,22,Marseille,2000.0,20.0,4.0,100.0,0.0,77.0,9.0,"8,000,000.0",2025-06-30
+bartosz bereszynski,DF,Poland,30,Sampdoria,1992.0,66.7,15.0,50.0,2.0,53.0,122.0,"3,000,000.0",2023-06-30
+bassam alrawi,DF,Qatar,25,Al Duhail SC,1997.0,100.0,3.0,0.0,0.0,89.0,47.0,0.0,2023-01-31
+ben davies,DF,Wales,29,Tottenham,1993.0,63.6,20.0,100.0,1.0,12.0,122.0,"20,000,000.0",2025-06-30
+bernardo silva,MF,Portugal,28,Manchester City,1994.0,33.3,32.0,100.0,2.0,90.0,256.0,"80,000,000.0",2025-06-30
+bilal el khannous,MF,Morocco,18,Genk,2004.0,0.0,0.0,0.0,0.0,45.0,20.0,0.0,2023-01-31
+borna sosa,DF,Croatia,24,Stuttgart,1998.0,50.0,14.0,83.3,2.0,100.0,220.0,"20,000,000.0",2025-06-30
+brandon aguilera,MF,Costa Rica,19,Asociación Deportiva Guanacasteca,2003.0,66.7,8.0,50.0,1.0,81.0,27.0,0.0,2023-01-31
+breel embolo,FW,Switzerland,25,Monaco,1997.0,20.0,6.0,50.0,0.0,81.0,46.0,"20,000,000.0",2026-06-30
+brennan johnson,FW,Wales,21,Nott'ham Forest,2001.0,0.0,3.0,0.0,0.0,18.0,10.0,"12,000,000.0",2024-06-30
+bruno fernandes,FW,Portugal,28,Manchester Utd,1994.0,20.0,23.0,0.0,2.0,17.0,188.0,"75,000,000.0",2026-06-30
+bruno petkovic,FW,Croatia,28,Dinamo Zagreb,1994.0,38.1,9.0,0.0,0.0,85.0,40.0,"6,000,000.0",2024-06-30
+bukayo saka,FW,England,21,Arsenal,2001.0,50.0,13.0,50.0,2.0,79.0,84.0,"100,000,000.0",2024-06-30
+carlos gruezo,MF,Ecuador,27,Augsburg,1995.0,0.0,2.0,50.0,0.0,71.0,15.0,"4,000,000.0",2024-06-30
+carlos martinez,DF,Costa Rica,23,AD San Carlos,1999.0,100.0,3.0,50.0,1.0,55.0,10.0,"275,000.0",2025-06-30
+casemiro,MF,Brazil,30,Manchester Utd,1992.0,50.0,22.0,66.7,7.0,120.0,208.0,"50,000,000.0",2026-06-30
+celso borges,MF,Costa Rica,34,Liga Deportiva Alajuelense,1988.0,100.0,17.0,40.0,4.0,85.0,98.0,"200,000.0",2024-12-31
+charly rodriguez,MF,Mexico,25,Cruz Azul,1997.0,0.0,6.0,0.0,0.0,80.0,21.0,"500,000.0",2025-06-30
+cho guesung,FW,Korea Republic,24,Jeonbuk,1998.0,63.6,4.0,0.0,0.0,81.0,40.0,0.0,2023-01-31
+chris mepham,DF,Wales,25,Bournemouth,1997.0,77.8,8.0,83.3,1.0,30.0,141.0,"6,000,000.0",2025-06-30
+christian pulisic,FW,United States,24,Chelsea,1998.0,33.3,11.0,0.0,0.0,87.0,83.0,"38,000,000.0",2024-06-30
+cody gakpo,FW,Netherlands,23,PSV Eindhoven,1999.0,50.0,19.0,75.0,3.0,72.0,93.0,"60,000,000.0",2028-06-30
+collins fai,DF,Cameroon,30,Al-Ta'ee,1992.0,50.0,21.0,50.0,4.0,24.0,99.0,"1,000,000.0",2023-01-31
+connor roberts,DF,Wales,27,Burnley,1995.0,50.0,8.0,66.7,1.0,90.0,92.0,"6,000,000.0",2025-06-30
+cristian romero,DF,Argentina,24,Tottenham,1998.0,60.0,35.0,50.0,4.0,45.0,337.0,"60,000,000.0",2027-06-30
+cyle larin,FW,Canada,27,Club Brugge,1995.0,66.7,4.0,0.0,0.0,46.0,21.0,"6,000,000.0",2023-06-30
+cesar montes,DF,Mexico,25,Monterrey,1997.0,58.3,13.0,100.0,2.0,83.0,159.0,0.0,2023-01-31
+daichi kamada,FW,Japan,26,Eint Frankfurt,1996.0,60.0,10.0,50.0,0.0,16.0,83.0,"30,000,000.0",2023-06-30
+daizen maeda,FW,Japan,25,Celtic,1997.0,14.3,4.0,0.0,3.0,17.0,8.0,"5,000,000.0",2026-05-31
+daley blind,DF,Netherlands,32,Ajax,1990.0,41.7,24.0,66.7,5.0,72.0,252.0,"6,000,000.0",2023-06-30
+dani carvajal,DF,Spain,30,Real Madrid,1992.0,0.0,9.0,0.0,2.0,1.0,121.0,"18,000,000.0",2025-06-30
+daniel amartey,DF,Ghana,27,Leicester City,1994.0,55.6,15.0,100.0,3.0,90.0,128.0,"15,000,000.0",2023-06-30
+daniel james,FW,Wales,25,Fulham,1997.0,0.0,4.0,0.0,0.0,90.0,24.0,"16,000,000.0",2023-05-31
+daniel kyereh,MF,Ghana,26,Freiburg,1996.0,0.0,3.0,100.0,0.0,8.0,18.0,0.0,2023-01-31
+danilo pereira,DF,Portugal,31,Paris S-G,1991.0,83.3,4.0,100.0,3.0,6.0,68.0,"12,000,000.0",2025-06-30
+darwin nunez,FW,Uruguay,23,Liverpool,1999.0,33.3,6.0,50.0,0.0,90.0,35.0,"70,000,000.0",2028-06-30
+david raum,DF,Germany,24,RB Leipzig,1998.0,62.5,12.0,50.0,7.0,90.0,153.0,"26,000,000.0",2027-06-30
+deandre yedlin,DF,United States,29,Inter Miami,1993.0,100.0,1.0,100.0,0.0,59.0,19.0,"2,000,000.0",2025-12-31
+dejan lovren,DF,Croatia,33,Zenit,1989.0,73.9,31.0,60.0,6.0,78.0,405.0,"3,500,000.0",2025-06-30
+denis odoi,DF,Ghana,34,Club Brugge,1988.0,0.0,0.0,100.0,0.0,58.0,2.0,"600,000.0",2024-06-30
+denzel dumfries,DF,Netherlands,26,Inter,1996.0,47.4,16.0,83.3,7.0,68.0,149.0,"28,000,000.0",2025-06-30
+diogo dalot,DF,Portugal,23,Manchester Utd,1999.0,66.7,13.0,100.0,2.0,85.0,112.0,"32,000,000.0",2024-06-30
+djibril sow,MF,Switzerland,25,Eint Frankfurt,1997.0,33.3,9.0,0.0,2.0,29.0,84.0,"22,000,000.0",2024-06-30
+dusan vlahovic,FW,Serbia,22,Juventus,2000.0,50.0,3.0,100.0,0.0,84.0,6.0,"80,000,000.0",2026-06-30
+dylan bronn,DF,Tunisia,27,Salernitana,1995.0,33.3,7.0,100.0,0.0,1.0,75.0,"3,000,000.0",2025-06-30
+edson alvarez,MF,Mexico,25,Ajax,1997.0,68.8,10.0,33.3,4.0,90.0,86.0,"35,000,000.0",2025-06-30
+enner valencia,FW,Ecuador,33,Fenerbahçe,1989.0,20.0,8.0,0.0,1.0,80.0,40.0,"3,000,000.0",2023-06-30
+enzo ebosse,DF,Cameroon,23,Udinese,1999.0,100.0,1.0,100.0,0.0,81.0,34.0,"4,500,000.0",2027-06-30
+erick gutierrez,MF,Mexico,27,PSV Eindhoven,1995.0,100.0,3.0,33.3,2.0,96.0,24.0,"7,000,000.0",2025-06-30
+ethan ampadu,MF,Wales,22,Spezia,2000.0,37.5,16.0,0.0,4.0,17.0,108.0,"9,000,000.0",2023-06-30
+exequiel palacios,MF,Argentina,24,Leverkusen,1998.0,0.0,6.0,0.0,2.0,100.0,25.0,"15,000,000.0",2025-06-30
+fabian frei,MF,Switzerland,33,Basel,1989.0,0.0,2.0,0.0,1.0,13.0,9.0,"500,000.0",2024-06-30
+fabian rieder,FW,Switzerland,20,Young Boys,2002.0,0.0,4.0,50.0,0.0,30.0,13.0,"75,000.0",2023-01-31
+fabian schar,DF,Switzerland,30,Newcastle Utd,1991.0,50.0,7.0,100.0,2.0,96.0,65.0,"10,000,000.0",2024-06-30
+famara diedhiou,FW,Senegal,30,Alanyaspor,1992.0,55.6,3.0,0.0,0.0,76.0,10.0,"3,000,000.0",2025-06-30
+ferran torres,FW,Spain,22,Barcelona,2000.0,0.0,8.0,0.0,0.0,86.0,59.0,"35,000,000.0",2027-06-30
+filip mladenovic,DF,Serbia,31,Legia Warsaw,1991.0,100.0,4.0,0.0,0.0,27.0,20.0,"1,500,000.0",2023-06-30
+fran karacic,DF,Australia,26,Brescia,1996.0,50.0,9.0,100.0,2.0,38.0,33.0,0.0,2023-01-31
+francisco calvo,DF,Costa Rica,30,Konyaspor,1992.0,66.7,12.0,57.1,2.0,86.0,86.0,"1,700,000.0",2024-06-30
+fred,MF,Brazil,29,Manchester Utd,1993.0,0.0,7.0,50.0,0.0,40.0,71.0,"20,000,000.0",2024-06-30
+frenkie de jong,MF,Netherlands,25,Barcelona,1997.0,88.9,30.0,33.3,6.0,81.0,323.0,"50,000,000.0",2026-06-30
+gareth bale,FW,Wales,33,Los Angeles FC,1989.0,36.4,9.0,0.0,1.0,48.0,33.0,"2,000,000.0",2023-06-30
+gavi,MF,Spain,18,Barcelona,2004.0,28.6,7.0,40.0,1.0,41.0,133.0,"90,000,000.0",2026-06-30
+gleison bremer,DF,Brazil,25,Juventus,1997.0,100.0,9.0,0.0,1.0,85.0,78.0,0.0,2023-01-31
+gonzalo montiel,DF,Argentina,25,Sevilla,1997.0,33.3,3.0,50.0,1.0,90.0,69.0,"12,000,000.0",2026-06-30
+gonzalo plata,MF,Ecuador,22,Valladolid,2000.0,45.5,10.0,25.0,2.0,81.0,77.0,"5,000,000.0",2027-06-30
+goncalo ramos,FW,Portugal,21,Benfica,2001.0,40.0,2.0,50.0,0.0,23.0,25.0,"30,000,000.0",2026-06-30
+granit xhaka,MF,Switzerland,30,Arsenal,1992.0,58.3,21.0,66.7,2.0,18.0,215.0,"28,000,000.0",2024-06-30
+grzegorz krychowiak,MF,Poland,32,Al-Shabab,1990.0,57.1,23.0,14.3,5.0,84.0,93.0,"6,000,000.0",2023-06-30
+guido rodriguez,MF,Argentina,28,Betis,1994.0,100.0,2.0,100.0,0.0,49.0,54.0,"28,000,000.0",2024-06-30
+guillermo varela,DF,Uruguay,29,Flamengo,1993.0,33.3,8.0,75.0,3.0,85.0,62.0,"2,000,000.0",2023-06-30
+hakim ziyech,FW,Morocco,29,Chelsea,1993.0,33.3,29.0,36.4,10.0,36.0,211.0,"20,000,000.0",2025-06-30
+harry kane,FW,England,29,Tottenham,1993.0,40.9,16.0,100.0,0.0,34.0,62.0,"90,000,000.0",2024-06-30
+harry maguire,DF,England,29,Manchester Utd,1993.0,75.0,17.0,50.0,4.0,68.0,354.0,"30,000,000.0",2025-06-30
+harry souttar,DF,Australia,24,Stoke City,1998.0,66.7,17.0,66.7,6.0,90.0,138.0,"6,000,000.0",2028-06-30
+harry wilson,MF,Wales,25,Fulham,1997.0,33.3,10.0,100.0,1.0,60.0,48.0,"17,000,000.0",2026-06-30
+hassan alhaydos,MF,Qatar,32,Al Sadd SC,1990.0,0.0,12.0,25.0,2.0,46.0,65.0,0.0,2023-01-31
+henry martin,FW,Mexico,30,América,1992.0,60.0,4.0,50.0,2.0,24.0,13.0,0.0,2023-01-31
+hiroki sakai,MF,Japan,32,Urawa Reds,1990.0,27.3,6.0,50.0,1.0,65.0,28.0,"1,700,000.0",2023-01-31
+hirving lozano,FW,Mexico,27,Napoli,1995.0,9.1,14.0,75.0,0.0,7.0,42.0,"28,000,000.0",2024-06-30
+homam ahmed,DF,Qatar,23,Al-Gharafa Sports Club,1999.0,71.4,14.0,33.3,2.0,89.0,77.0,"500,000.0",2023-01-31
+hwang inbeom,MF,Korea Republic,26,Olympiacos,1996.0,28.6,22.0,50.0,3.0,36.0,194.0,"3,500,000.0",2025-06-30
+hector herrera,MF,Mexico,32,Houston Dynamo,1990.0,75.0,7.0,50.0,3.0,95.0,64.0,"2,800,000.0",2024-12-31
+hector moreno,DF,Mexico,34,Monterrey,1988.0,38.5,14.0,100.0,1.0,90.0,165.0,"1,500,000.0",2023-01-31
+ibrahima konate,DF,France,23,Liverpool,1999.0,83.3,14.0,100.0,7.0,31.0,216.0,"35,000,000.0",2026-06-30
+iliman ndiaye,FW,Senegal,22,Sheffield Utd,2000.0,0.0,4.0,0.0,1.0,75.0,25.0,"7,000,000.0",2024-06-30
+ismail jakobs,DF,Senegal,23,Monaco,1999.0,72.7,9.0,0.0,4.0,71.0,107.0,"7,000,000.0",2026-06-30
+ismaila sarr,FW,Senegal,24,Watford,1998.0,50.0,17.0,66.7,2.0,14.0,52.0,"22,000,000.0",2024-06-30
+issam jebali,FW,Tunisia,30,Odense,1991.0,11.8,8.0,0.0,0.0,20.0,25.0,"500,000.0",2024-06-30
+inaki williams,FW,Ghana,28,Athletic Club,1994.0,25.0,9.0,50.0,0.0,17.0,29.0,"25,000,000.0",2028-06-30
+jackson irvine,MF,Australia,29,St. Pauli,1993.0,56.3,11.0,50.0,3.0,27.0,103.0,"2,000,000.0",2023-01-31
+jakub kaminski,MF,Poland,20,Wolfsburg,2002.0,0.0,17.0,75.0,0.0,55.0,37.0,0.0,2023-01-31
+jakub kiwior,DF,Poland,22,Spezia,2000.0,42.9,11.0,100.0,4.0,30.0,174.0,"8,000,000.0",2028-06-30
+jamal musiala,MF,Germany,19,Bayern Munich,2003.0,33.3,19.0,50.0,1.0,90.0,85.0,"100,000,000.0",2026-06-30
+jamie maclaren,FW,Australia,29,Melb City,1993.0,20.0,1.0,0.0,1.0,38.0,7.0,"1,800,000.0",2024-06-30
+jawad el yamiq,DF,Morocco,30,Valladolid,1992.0,85.7,20.0,100.0,5.0,56.0,146.0,"1,200,000.0",2024-06-30
+jeremy sarmiento,MF,Ecuador,20,Brighton,2002.0,66.7,6.0,0.0,1.0,91.0,23.0,"3,000,000.0",2026-06-30
+jesus gallardo,DF,Mexico,28,Monterrey,1994.0,100.0,14.0,37.5,1.0,80.0,93.0,0.0,2023-01-31
+jewison bennette,MF,Costa Rica,18,Sunderland,2004.0,0.0,4.0,0.0,0.0,86.0,11.0,0.0,2023-01-31
+jhegson mendez,MF,Ecuador,25,Los Angeles FC,1997.0,50.0,16.0,100.0,1.0,90.0,128.0,0.0,2023-01-31
+joachim andersen,DF,Denmark,26,Crystal Palace,1996.0,55.6,15.0,0.0,0.0,53.0,198.0,"32,000,000.0",2026-06-30
+joakim maehle,DF,Denmark,25,Atalanta,1997.0,10.0,10.0,71.4,2.0,90.0,119.0,"14,000,000.0",2025-06-30
+joe allen,MF,Wales,32,Swansea City,1990.0,0.0,9.0,50.0,1.0,69.0,30.0,"1,000,000.0",2024-06-30
+joe morrell,MF,Wales,25,Portsmouth,1997.0,0.0,4.0,0.0,1.0,2.0,12.0,"8,000,000.0",2024-06-30
+joe rodon,DF,Wales,25,Rennes,1997.0,45.5,10.0,50.0,4.0,73.0,152.0,"9,000,000.0",2023-06-30
+johan venegas,FW,Costa Rica,34,Liga Deportiva Alajuelense,1988.0,0.0,1.0,0.0,0.0,95.0,11.0,0.0,2023-01-31
+john stones,DF,England,28,Manchester City,1994.0,60.0,17.0,100.0,1.0,45.0,435.0,"30,000,000.0",2026-06-30
+jonas hofmann,FW,Germany,30,M'Gladbach,1992.0,0.0,0.0,0.0,0.0,60.0,16.0,"13,000,000.0",2025-06-30
+jonathan osorio,MF,Canada,30,Toronto FC,1992.0,0.0,5.0,50.0,1.0,87.0,52.0,0.0,2023-01-31
+jordan ayew,FW,Ghana,31,Crystal Palace,1991.0,0.0,8.0,0.0,1.0,45.0,35.0,"6,000,000.0",2023-06-30
+jordi alba,DF,Spain,33,Barcelona,1989.0,0.0,20.0,40.0,3.0,58.0,328.0,"5,000,000.0",2024-06-30
+jorge eduardo sanchez,DF,Mexico,25,Ajax,1997.0,60.0,6.0,100.0,3.0,84.0,69.0,0.0,2023-01-31
+josh sargent,FW,United States,22,Norwich City,2000.0,33.3,1.0,0.0,1.0,27.0,29.0,"12,000,000.0",2025-06-30
+joshua kimmich,MF,Germany,27,Bayern Munich,1995.0,80.0,19.0,50.0,3.0,80.0,226.0,"80,000,000.0",2025-06-30
+josip juranovic,DF,Croatia,27,Celtic,1995.0,33.3,40.0,100.0,3.0,90.0,318.0,"9,000,000.0",2027-06-30
+josip stanisic,DF,Croatia,22,Bayern Munich,2000.0,100.0,4.0,100.0,1.0,59.0,36.0,"8,000,000.0",2026-06-30
+jose maria gimenez,DF,Uruguay,27,Atlético Madrid,1995.0,72.7,13.0,28.6,7.0,45.0,141.0,"40,000,000.0",2025-06-30
+joao cancelo,DF,Portugal,28,Manchester City,1994.0,90.9,24.0,80.0,2.0,45.0,221.0,"70,000,000.0",2023-06-30
+joao felix,FW,Portugal,23,Atlético Madrid,1999.0,66.7,9.0,0.0,1.0,70.0,91.0,"50,000,000.0",2023-06-30
+joao mario,FW,Portugal,29,Benfica,1993.0,0.0,5.0,66.7,0.0,87.0,37.0,"12,000,000.0",2027-06-30
+joao palhinha,MF,Portugal,27,Fulham,1995.0,0.0,5.0,0.0,1.0,86.0,26.0,"28,000,000.0",2027-06-30
+josko gvardiol,DF,Croatia,20,RB Leipzig,2002.0,37.5,48.0,62.5,11.0,36.0,464.0,"75,000,000.0",2027-06-30
+juan pablo vargas,DF,Costa Rica,27,Millonarios,1995.0,100.0,5.0,100.0,2.0,34.0,19.0,"300,000.0",2023-01-31
+jude bellingham,MF,England,19,Dortmund,2003.0,40.0,31.0,83.3,5.0,96.0,235.0,"110,000,000.0",2025-06-30
+jung wooyoung,MF,Korea Republic,33,Al Sadd SC,1989.0,75.0,24.0,66.7,3.0,90.0,178.0,"5,500,000.0",2025-06-30
+junya ito,MF,Japan,29,Reims,1993.0,33.3,17.0,55.6,5.0,89.0,59.0,"9,000,000.0",2026-06-30
+jurrien timber,DF,Netherlands,21,Ajax,2001.0,57.1,30.0,100.0,10.0,48.0,283.0,"45,000,000.0",2025-06-30
+kai havertz,FW,Germany,23,Chelsea,1999.0,0.0,3.0,0.0,1.0,58.0,27.0,"70,000,000.0",2025-06-30
+kalidou koulibaly,DF,Senegal,31,Chelsea,1991.0,68.8,28.0,63.6,2.0,89.0,156.0,"35,000,000.0",2026-06-30
+kamil glik,DF,Poland,34,Benevento,1988.0,57.1,11.0,66.7,3.0,18.0,118.0,"800,000.0",2023-06-30
+kaoru mitoma,MF,Japan,25,Brighton,1997.0,40.0,17.0,100.0,2.0,90.0,50.0,"8,500,000.0",2025-06-30
+karl toko ekambi,FW,Cameroon,30,Lyon,1992.0,20.0,8.0,0.0,2.0,52.0,43.0,"12,000,000.0",2023-06-30
+karol swiderski,FW,Poland,25,Charlotte,1997.0,50.0,3.0,66.7,2.0,90.0,7.0,"5,000,000.0",2025-12-31
+keanu baccus,MF,Australia,24,St Mirren,1998.0,25.0,11.0,0.0,2.0,45.0,26.0,0.0,2023-01-31
+kendall waston,DF,Costa Rica,34,Deportivo Saprissa,1988.0,57.1,10.0,75.0,5.0,19.0,57.0,0.0,2023-01-31
+kevin de bruyne,FW,Belgium,31,Manchester City,1991.0,100.0,11.0,0.0,0.0,5.0,93.0,"80,000,000.0",2025-06-30
+kevin alvarez,DF,Mexico,23,Pachuca,1999.0,0.0,4.0,100.0,1.0,45.0,19.0,0.0,2023-01-31
+keysher fuller,DF,Costa Rica,28,Club Sport Herediano,1994.0,0.0,11.0,42.9,3.0,34.0,44.0,0.0,2023-01-31
+kieran trippier,DF,England,32,Newcastle Utd,1990.0,80.0,11.0,83.3,1.0,90.0,165.0,"13,000,000.0",2025-06-30
+kim jinsu,DF,Korea Republic,30,Jeonbuk,1992.0,71.4,12.0,83.3,3.0,83.0,105.0,"600,000.0",2023-06-30
+kim minjae,DF,Korea Republic,26,Napoli,1996.0,90.9,14.0,100.0,2.0,47.0,167.0,"35,000,000.0",2025-06-30
+kim moonhwan,DF,Korea Republic,27,Jeonbuk,1995.0,66.7,16.0,83.3,4.0,17.0,201.0,0.0,2023-01-31
+kingsley coman,FW,France,26,Bayern Munich,1996.0,33.3,12.0,50.0,2.0,90.0,56.0,"60,000,000.0",2027-06-30
+kye rowles,DF,Australia,24,Hearts,1998.0,66.7,12.0,57.1,7.0,40.0,165.0,0.0,2023-01-31
+leandro paredes,MF,Argentina,28,Juventus,1994.0,100.0,19.0,75.0,3.0,62.0,230.0,"15,000,000.0",2023-06-30
+lee jaesung,MF,Korea Republic,30,Mainz 05,1992.0,42.9,7.0,12.5,3.0,88.0,84.0,"3,000,000.0",2024-06-30
+leon goretzka,MF,Germany,27,Bayern Munich,1995.0,60.0,12.0,100.0,1.0,52.0,42.0,"65,000,000.0",2026-06-30
+leroy sane,FW,Germany,26,Bayern Munich,1996.0,50.0,6.0,0.0,0.0,90.0,47.0,"70,000,000.0",2025-06-30
+lionel messi,FW,Argentina,35,Paris S-G,1987.0,22.2,22.0,0.0,0.0,90.0,301.0,"50,000,000.0",2023-06-30
+lisandro martinez,DF,Argentina,24,Manchester Utd,1998.0,50.0,6.0,100.0,3.0,90.0,133.0,"50,000,000.0",2027-06-30
+lucas paqueta,MF,Brazil,25,West Ham,1997.0,60.0,13.0,40.0,2.0,78.0,169.0,"45,000,000.0",2027-06-30
+luis chavez,MF,Mexico,26,Pachuca,1996.0,50.0,15.0,25.0,1.0,83.0,99.0,0.0,2023-01-31
+luis suarez,FW,Uruguay,35,Nacional,1987.0,33.3,3.0,0.0,0.0,42.0,25.0,"9,000,000.0",2023-06-30
+luka modric,MF,Croatia,37,Real Madrid,1985.0,42.9,51.0,50.0,10.0,99.0,465.0,"10,000,000.0",2023-06-30
+luke shaw,DF,England,27,Manchester Utd,1995.0,25.0,21.0,50.0,4.0,90.0,335.0,"28,000,000.0",2024-06-30
+majid hosseini,DF,IR Iran,26,Kayserispor,1996.0,60.0,22.0,66.7,6.0,80.0,86.0,"3,000,000.0",2023-06-30
+marcelo brozovic,MF,Croatia,30,Inter,1992.0,60.0,45.0,30.0,4.0,76.0,466.0,"35,000,000.0",2026-06-30
+marcos acuna,DF,Argentina,31,Sevilla,1991.0,41.7,16.0,85.7,2.0,81.0,167.0,"14,000,000.0",2025-06-30
+marcos llorente,DF,Spain,27,Atlético Madrid,1995.0,0.0,9.0,0.0,0.0,98.0,95.0,"35,000,000.0",2027-06-30
+mario pasalic,FW,Croatia,27,Atalanta,1995.0,50.0,21.0,42.9,3.0,21.0,76.0,"25,000,000.0",2025-06-30
+markanthony kaye,MF,Canada,28,Toronto FC,1994.0,0.0,4.0,66.7,0.0,90.0,51.0,0.0,2023-01-31
+marko livaja,FW,Croatia,29,Hajduk Split,1993.0,44.4,10.0,33.3,1.0,29.0,35.0,"8,000,000.0",2027-06-30
+marquinhos,DF,Brazil,28,Paris S-G,1994.0,50.0,28.0,80.0,2.0,90.0,352.0,"70,000,000.0",2024-06-30
+martin caceres,DF,Uruguay,35,LA Galaxy,1987.0,100.0,3.0,0.0,0.0,18.0,68.0,"500,000.0",2023-12-31
+mateo kovacic,MF,Croatia,28,Chelsea,1994.0,66.7,46.0,36.4,4.0,55.0,415.0,"40,000,000.0",2024-06-30
+mathew leckie,MF,Australia,31,Melb City,1991.0,58.3,15.0,40.0,1.0,38.0,67.0,"800,000.0",2024-06-30
+mathias jensen,MF,Denmark,26,Brentford,1996.0,100.0,5.0,100.0,0.0,29.0,52.0,"14,000,000.0",2026-06-30
+mathias olivera,DF,Uruguay,25,Napoli,1997.0,60.0,15.0,57.1,2.0,22.0,104.0,"15,000,000.0",2027-06-30
+matty cash,DF,Poland,25,Aston Villa,1997.0,66.7,10.0,50.0,0.0,1.0,123.0,"22,000,000.0",2027-06-30
+matias vecino,MF,Uruguay,31,Lazio,1991.0,50.0,18.0,33.3,4.0,35.0,76.0,"4,500,000.0",2025-06-30
+mehdi taremi,FW,IR Iran,30,Porto,1992.0,41.7,13.0,40.0,2.0,75.0,58.0,"20,000,000.0",2024-06-30
+mehdi torabi,MF,IR Iran,28,Persepolis,1994.0,0.0,6.0,33.3,2.0,69.0,30.0,0.0,2023-01-31
+memphis,FW,Netherlands,28,Barcelona,1994.0,25.0,10.0,50.0,1.0,79.0,93.0,0.0,2023-01-31
+michael estrada,FW,Ecuador,26,Cruz Azul,1996.0,48.1,5.0,0.0,0.0,90.0,28.0,0.0,2023-01-31
+michy batshuayi,FW,Belgium,29,Fenerbahçe,1993.0,33.3,4.0,100.0,0.0,88.0,16.0,"10,000,000.0",2024-06-30
+mikkel damsgaard,MF,Denmark,22,Brentford,2000.0,0.0,10.0,0.0,2.0,90.0,55.0,"15,000,000.0",2027-06-30
+milos degenek,DF,Australia,28,Columbus Crew,1994.0,85.7,15.0,83.3,1.0,1.0,67.0,0.0,2023-01-31
+milos veljkovic,DF,Serbia,27,Werder Bremen,1995.0,66.7,12.0,100.0,0.0,54.0,98.0,"5,000,000.0",2025-06-30
+mohamed ali ben romdhane,MF,Tunisia,23,Espérance de Tunis,1999.0,100.0,10.0,100.0,0.0,82.0,14.0,0.0,2023-01-31
+mohamed drager,DF,Tunisia,26,Luzern,1996.0,50.0,2.0,100.0,1.0,56.0,36.0,"1,300,000.0",2023-06-30
+mohamed kanno,MF,Saudi Arabia,28,Al-Hilal,1994.0,47.1,19.0,50.0,2.0,46.0,119.0,0.0,2023-01-31
+mohammed muntari,FW,Qatar,28,Al Duhail SC,1993.0,75.0,4.0,100.0,0.0,85.0,17.0,0.0,2023-01-31
+mohammed salisu,DF,Ghana,23,Southampton,1999.0,50.0,15.0,100.0,3.0,40.0,109.0,"18,000,000.0",2024-06-30
+moises caicedo,MF,Ecuador,21,Brighton,2001.0,50.0,14.0,0.0,2.0,81.0,126.0,"38,000,000.0",2025-06-30
+morteza pouraliganji,DF,IR Iran,30,Persepolis,1992.0,60.0,16.0,50.0,6.0,34.0,92.0,"700,000.0",2024-06-30
+moumi ngamaleu,FW,Cameroon,28,Dynamo Mosc,1994.0,0.0,5.0,100.0,0.0,70.0,21.0,0.0,2023-01-31
+na sangho,FW,Korea Republic,26,FC Seoul,1996.0,50.0,5.0,100.0,0.0,56.0,24.0,0.0,2023-01-31
+nahuel molina,DF,Argentina,24,Atlético Madrid,1998.0,0.0,23.0,50.0,3.0,10.0,291.0,"22,000,000.0",2027-06-30
+nampalys mendy,MF,Senegal,30,Leicester City,1992.0,0.0,18.0,50.0,3.0,99.0,141.0,"3,500,000.0",2023-06-30
+nathan ake,DF,Netherlands,27,Manchester City,1995.0,45.5,21.0,100.0,8.0,19.0,315.0,"30,000,000.0",2025-06-30
+nayef aguerd,DF,Morocco,26,West Ham,1996.0,71.4,18.0,100.0,4.0,19.0,137.0,"25,000,000.0",2027-06-30
+naim sliti,MF,Tunisia,30,Al-Ettifaq,1992.0,50.0,8.0,0.0,0.0,12.0,29.0,"6,000,000.0",2023-06-30
+neco williams,DF,Wales,21,Nott'ham Forest,2001.0,66.7,16.0,75.0,4.0,79.0,69.0,"18,000,000.0",2026-06-30
+nemanja maksimovic,MF,Serbia,27,Getafe,1995.0,0.0,6.0,66.7,3.0,90.0,50.0,"10,000,000.0",2024-06-30
+nico elvedi,DF,Switzerland,26,M'Gladbach,1996.0,40.0,15.0,33.3,1.0,93.0,131.0,"20,000,000.0",2024-06-30
+nico williams,FW,Spain,20,Athletic Club,2002.0,33.3,7.0,100.0,0.0,33.0,50.0,"25,000,000.0",2024-06-30
+nicola zalewski,MF,Poland,20,Roma,2002.0,0.0,5.0,50.0,0.0,85.0,15.0,"15,000,000.0",2025-06-30
+nicolas nkoulou,DF,Cameroon,32,Aris,1990.0,33.3,11.0,0.0,5.0,90.0,79.0,0.0,2023-01-31
+nicolas tagliafico,DF,Argentina,30,Lyon,1992.0,80.0,12.0,100.0,9.0,90.0,145.0,"9,000,000.0",2025-06-30
+noussair mazraoui,DF,Morocco,25,Bayern Munich,1997.0,25.0,21.0,72.7,1.0,62.0,98.0,"28,000,000.0",2026-06-30
+olivier giroud,FW,France,36,Milan,1986.0,59.4,7.0,0.0,1.0,30.0,48.0,"4,000,000.0",2023-06-30
+orbelin pineda,MF,Mexico,26,AEK Athens,1996.0,0.0,4.0,66.7,0.0,39.0,18.0,"4,000,000.0",2023-06-30
+otavio,MF,Portugal,27,Porto,1995.0,50.0,16.0,60.0,1.0,59.0,98.0,"30,000,000.0",2025-06-30
+paik seungho,MF,Korea Republic,25,Jeonbuk,1997.0,100.0,4.0,100.0,0.0,40.0,20.0,"1,000,000.0",2023-12-31
+pape gueye,MF,Senegal,23,Marseille,1999.0,62.5,5.0,100.0,2.0,85.0,45.0,"10,000,000.0",2023-06-30
+pape matar sarr,MF,Senegal,20,Tottenham,2002.0,100.0,3.0,100.0,0.0,37.0,36.0,"15,000,000.0",2026-06-30
+papu gomez,MF,Argentina,34,Sevilla,1988.0,100.0,6.0,0.0,1.0,52.0,53.0,"4,000,000.0",2024-06-30
+pedri,MF,Spain,20,Barcelona,2002.0,100.0,27.0,16.7,4.0,90.0,393.0,"100,000,000.0",2026-06-30
+pedro,FW,Brazil,25,Flamengo,1997.0,0.0,2.0,100.0,1.0,47.0,10.0,"2,500,000.0",2023-06-30
+pepe,DF,Portugal,39,Porto,1983.0,64.3,28.0,75.0,6.0,91.0,243.0,"1,000,000.0",2023-06-30
+phil foden,FW,England,22,Manchester City,2000.0,37.5,9.0,0.0,1.0,37.0,90.0,"110,000,000.0",2027-06-30
+piero hincapie,DF,Ecuador,20,Leverkusen,2002.0,62.5,13.0,66.7,2.0,83.0,168.0,"25,000,000.0",2027-06-30
+pierre kunde,MF,Cameroon,27,Olympiacos,1995.0,100.0,13.0,0.0,4.0,42.0,38.0,"2,000,000.0",2023-06-30
+piotr zielinski,MF,Poland,28,Napoli,1994.0,0.0,17.0,25.0,1.0,84.0,124.0,"40,000,000.0",2024-06-30
+raheem sterling,FW,England,28,Chelsea,1994.0,50.0,8.0,0.0,1.0,1.0,45.0,"70,000,000.0",2027-06-30
+ramin rezaeian,DF,IR Iran,32,Sepahan,1990.0,14.3,22.0,42.9,3.0,46.0,73.0,"450,000.0",2024-06-30
+randal kolo muani,FW,France,24,Eint Frankfurt,1998.0,64.3,9.0,100.0,1.0,90.0,25.0,"37,000,000.0",2027-06-30
+raphael guerreiro,DF,Portugal,28,Dortmund,1993.0,66.7,17.0,50.0,3.0,78.0,156.0,"20,000,000.0",2023-06-30
+raphael varane,DF,France,29,Manchester Utd,1993.0,44.4,17.0,0.0,6.0,65.0,256.0,"40,000,000.0",2025-06-30
+raphinha,FW,Brazil,26,Barcelona,1996.0,0.0,11.0,75.0,3.0,9.0,111.0,"50,000,000.0",2027-06-30
+rasmus nissen,DF,Denmark,25,Leeds United,1997.0,75.0,15.0,50.0,1.0,15.0,137.0,"50,000.0",2023-01-31
+remo freuler,MF,Switzerland,30,Nott'ham Forest,1992.0,20.0,19.0,66.7,3.0,90.0,127.0,"13,000,000.0",2025-06-30
+ricardo horta,FW,Portugal,28,Braga,1994.0,0.0,6.0,100.0,1.0,59.0,31.0,"20,000,000.0",2026-06-30
+richie laryea,DF,Canada,27,Toronto FC,1995.0,0.0,11.0,100.0,0.0,45.0,35.0,0.0,2023-01-31
+riley mcgree,FW,Australia,24,Middlesbrough,1998.0,33.3,11.0,0.0,5.0,16.0,57.0,"2,000,000.0",2025-06-30
+ritsu doan,FW,Japan,24,Freiburg,1998.0,20.0,11.0,33.3,3.0,76.0,36.0,"15,000,000.0",2023-01-31
+robert lewandowski,FW,Poland,34,Barcelona,1988.0,48.5,14.0,0.0,1.0,65.0,61.0,"45,000,000.0",2026-06-30
+rodri,DF,Spain,26,Manchester City,1996.0,76.2,35.0,100.0,3.0,74.0,642.0,"80,000,000.0",2027-06-30
+rodrigo bentancur,MF,Uruguay,25,Tottenham,1997.0,66.7,35.0,100.0,7.0,27.0,136.0,"40,000,000.0",2026-06-30
+rodrigo de paul,MF,Argentina,28,Atlético Madrid,1994.0,40.0,42.0,61.5,7.0,68.0,470.0,"40,000,000.0",2026-06-30
+rodrygo,MF,Brazil,21,Real Madrid,2001.0,0.0,11.0,0.0,2.0,73.0,91.0,"80,000,000.0",2025-06-30
+romain saiss,DF,Morocco,32,Beşiktaş,1990.0,100.0,28.0,40.0,3.0,90.0,159.0,"6,500,000.0",2024-06-30
+roro,DF,Qatar,32,Al Sadd SC,1990.0,60.0,14.0,50.0,8.0,14.0,78.0,0.0,2023-01-31
+ruben neves,MF,Portugal,25,Wolves,1997.0,40.0,12.0,0.0,3.0,90.0,235.0,"40,000,000.0",2024-06-30
+saleh alshehri,FW,Saudi Arabia,29,Al-Hilal,1993.0,46.2,7.0,0.0,0.0,48.0,29.0,"700,000.0",2024-06-30
+saman ghoddos,MF,IR Iran,29,Brentford,1993.0,0.0,1.0,0.0,0.0,60.0,15.0,"2,200,000.0",2023-06-30
+saud abdulhamid,DF,Saudi Arabia,23,Al-Hilal,1999.0,40.0,14.0,100.0,2.0,68.0,88.0,0.0,2023-01-31
+sasa lukic,MF,Serbia,26,Torino,1996.0,50.0,19.0,0.0,1.0,5.0,143.0,"13,000,000.0",2027-06-30
+sebastian szymanski,MF,Poland,23,Feyenoord,1999.0,16.7,6.0,0.0,2.0,96.0,26.0,"14,000,000.0",2023-06-30
+selim amallah,MF,Morocco,26,Standard Liège,1996.0,18.2,12.0,54.5,8.0,44.0,65.0,"6,500,000.0",2027-06-30
+sergej milinkovicsavic,MF,Serbia,27,Lazio,1995.0,50.0,18.0,75.0,2.0,88.0,87.0,"60,000,000.0",2024-06-30
+sergio busquets,MF,Spain,34,Barcelona,1988.0,61.5,28.0,60.0,1.0,57.0,261.0,"5,000,000.0",2023-06-30
+sergino dest,DF,United States,22,Milan,2000.0,25.0,13.0,66.7,2.0,46.0,172.0,"16,000,000.0",2023-06-30
+shaquell moore,DF,United States,26,Nashville,1996.0,100.0,2.0,100.0,0.0,41.0,14.0,"1,000,000.0",2025-12-31
+sofiane boufal,FW,Morocco,29,Angers,1993.0,30.0,20.0,50.0,2.0,90.0,99.0,"10,000,000.0",2024-06-30
+sofyan amrabat,MF,Morocco,26,Fiorentina,1996.0,40.0,57.0,64.3,6.0,47.0,269.0,"25,000,000.0",2024-06-30
+son heungmin,FW,Korea Republic,30,Tottenham,1992.0,0.0,16.0,100.0,2.0,37.0,77.0,"70,000,000.0",2025-06-30
+son junho,MF,Korea Republic,30,Shandong Lunen,1992.0,0.0,9.0,100.0,3.0,33.0,55.0,0.0,2023-01-31
+stefan mitrovic,DF,Serbia,32,Getafe,1990.0,0.0,1.0,0.0,0.0,19.0,18.0,"2,000,000.0",2024-06-30
+stephen eustaquio,MF,Canada,25,Porto,1996.0,50.0,10.0,33.3,2.0,99.0,83.0,"8,000,000.0",2027-06-30
+steven berghuis,MF,Netherlands,30,Ajax,1991.0,33.3,8.0,50.0,0.0,90.0,97.0,"14,000,000.0",2025-06-30
+steven vitoria,DF,Canada,35,Chaves,1987.0,66.7,18.0,100.0,0.0,35.0,160.0,"100,000.0",2023-06-30
+strahinja pavlovic,DF,Serbia,21,RB Salzburg,2001.0,85.7,18.0,50.0,1.0,8.0,121.0,"20,000,000.0",2027-06-30
+tajon buchanan,MF,Canada,23,Club Brugge,1999.0,33.3,14.0,20.0,3.0,73.0,61.0,"12,000,000.0",2025-06-30
+takumi minamino,FW,Japan,27,Monaco,1995.0,0.0,4.0,100.0,0.0,70.0,14.0,"10,000,000.0",2026-06-30
+tariq lamptey,DF,Ghana,22,Brighton,2000.0,0.0,8.0,75.0,1.0,25.0,21.0,"15,000,000.0",2025-06-30
+teun koopmeiners,MF,Netherlands,24,Atalanta,1998.0,57.1,12.0,62.5,4.0,76.0,90.0,"30,000,000.0",2025-06-30
+theo hernandez,DF,France,25,Milan,1997.0,66.7,30.0,66.7,4.0,30.0,289.0,"60,000,000.0",2026-06-30
+thomas meunier,DF,Belgium,31,Dortmund,1991.0,40.0,13.0,80.0,2.0,51.0,110.0,"6,500,000.0",2024-06-30
+thomas muller,FW,Germany,33,Bayern Munich,1989.0,12.5,1.0,50.0,1.0,30.0,56.0,"18,000,000.0",2024-06-30
+thomas partey,MF,Ghana,29,Arsenal,1993.0,66.7,21.0,100.0,0.0,54.0,146.0,"38,000,000.0",2025-06-30
+thorgan hazard,FW,Belgium,29,Dortmund,1993.0,0.0,6.0,0.0,0.0,49.0,40.0,"9,000,000.0",2023-06-30
+timothy castagne,DF,Belgium,27,Leicester City,1995.0,40.0,9.0,66.7,2.0,90.0,176.0,"28,000,000.0",2025-06-30
+timothy weah,FW,United States,22,Lille,2000.0,40.0,10.0,0.0,0.0,9.0,90.0,"12,000,000.0",2024-06-30
+tyler adams,MF,United States,23,Leeds United,1999.0,71.4,33.0,42.9,4.0,32.0,241.0,"17,000,000.0",2027-06-30
+uriel antuna,FW,Mexico,25,Cruz Azul,1997.0,0.0,1.0,100.0,0.0,90.0,12.0,"4,000,000.0",2024-06-30
+vincent janssen,FW,Netherlands,28,Antwerp,1994.0,50.0,2.0,0.0,0.0,90.0,16.0,"6,000,000.0",2026-06-30
+virgil van dijk,DF,Netherlands,31,Liverpool,1991.0,61.9,31.0,50.0,4.0,82.0,311.0,"50,000,000.0",2025-06-30
+wajdi kechrida,DF,Tunisia,27,Atromitos,1995.0,33.3,6.0,100.0,0.0,18.0,44.0,"800,000.0",2024-06-30
+walker zimmerman,DF,United States,29,Nashville,1993.0,61.5,17.0,75.0,4.0,90.0,217.0,0.0,2023-01-31
+wataru endo,MF,Japan,29,Stuttgart,1993.0,50.0,22.0,60.0,3.0,61.0,155.0,"6,500,000.0",2024-06-30
+weston mckennie,MF,United States,24,Juventus,1998.0,50.0,14.0,25.0,0.0,86.0,117.0,"21,000,000.0",2023-06-30
+william carvalho,MF,Portugal,30,Betis,1992.0,100.0,15.0,50.0,0.0,63.0,156.0,"16,000,000.0",2026-06-30
+xavi simons,FW,Netherlands,19,PSV Eindhoven,2003.0,100.0,0.0,0.0,0.0,32.0,6.0,"18,000,000.0",2027-06-30
+xherdan shaqiri,FW,Switzerland,31,Chicago Fire,1991.0,20.0,6.0,0.0,0.0,40.0,67.0,"4,000,000.0",2024-12-31
+yahya attiat allah,DF,Morocco,27,Wydad Casablanca,1995.0,0.0,21.0,42.9,0.0,90.0,98.0,"2,500,000.0",2023-01-31
+yassine meriah,DF,Tunisia,29,Espérance de Tunis,1993.0,45.5,16.0,37.5,1.0,1.0,139.0,"2,000,000.0",2024-06-30
+youssef ennesyri,FW,Morocco,25,Sevilla,1997.0,60.0,13.0,0.0,1.0,90.0,50.0,"15,000,000.0",2025-06-30
+youssef msakni,MF,Tunisia,32,Al-Arabi SC,1990.0,33.3,9.0,0.0,0.0,22.0,50.0,"1,200,000.0",2023-06-30
+youssouf sabaly,DF,Senegal,29,Betis,1993.0,57.1,27.0,60.0,4.0,18.0,189.0,"4,000,000.0",2026-06-30
+youstin salas,DF,Costa Rica,26,Deportivo Saprissa,1996.0,100.0,5.0,42.9,0.0,98.0,15.0,0.0,2023-01-31
+yunus musah,MF,United States,20,Valencia,2002.0,50.0,23.0,33.3,2.0,86.0,151.0,"25,000,000.0",2026-06-30
+yuto nagatomo,MF,Japan,36,FC Tokyo,1986.0,33.3,11.0,100.0,0.0,36.0,78.0,"400,000.0",2023-01-31
+zakaria aboukhlal,FW,Morocco,22,Toulouse,2000.0,100.0,3.0,0.0,1.0,5.0,7.0,"3,500,000.0",2026-06-30
+alvaro morata,FW,Spain,30,Atlético Madrid,1992.0,100.0,2.0,50.0,0.0,78.0,28.0,"25,000,000.0",2024-06-30
+alvaro zamora,MF,Costa Rica,20,Deportivo Saprissa,2002.0,0.0,1.0,100.0,1.0,34.0,5.0,0.0,2023-01-31
+angel di maria,MF,Argentina,34,Juventus,1988.0,0.0,7.0,33.3,1.0,29.0,130.0,"10,000,000.0",2023-06-30
+angelo preciado,DF,Ecuador,24,Genk,1998.0,60.0,10.0,50.0,6.0,71.0,94.0,"4,000,000.0",2023-06-30
+eder militao,DF,Brazil,24,Real Madrid,1998.0,44.4,29.0,75.0,3.0,10.0,251.0,"60,000,000.0",2025-06-30
+ilkay gundogan,MF,Germany,32,Manchester City,1990.0,60.0,18.0,0.0,1.0,87.0,150.0,"25,000,000.0",2023-06-30
